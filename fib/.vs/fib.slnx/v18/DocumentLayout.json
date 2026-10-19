@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\\u05DE\u05D9\u05E8\u05D9 \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\miri_margalit_lesson_1\\fib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27598052-34FA-41E6-79C0-B710ABFE201C}|fib\\fib.csproj|c:\\users\\user\\documents\\\u05DE\u05D9\u05E8\u05D9 \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\miri_margalit_lesson_1\\fib\\fib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27598052-34FA-41E6-79C0-B710ABFE201C}|fib\\fib.csproj|solutionrelative:fib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\\u05DE\u05D9\u05E8\u05D9 \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\miri_margalit_lesson_1\\fib\\fib\\Program.cs",
+              "RelativeDocumentMoniker": "fib\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\\u05DE\u05D9\u05E8\u05D9 \u05E9\u05E0\u05D4 \u05D1\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\miri_margalit_lesson_1\\fib\\fib\\Program.cs",
+              "RelativeToolTip": "fib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T19:41:23.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
